@@ -15,7 +15,6 @@ namespace ArrayExercises.WinForms.Forms
     public partial class Exercise1Form : BaseExerciseForm
     {
         private GroupBox grpInput;
-        private Label lblMatrixInput;
         private DataGridView dgvMatrix;
         private Button btnLoadSample;
         private Button btnCustomMatrix;

@@ -57,7 +57,7 @@ namespace ArrayExercises.WinForms.Models
         /// </summary>
         /// <param name="obj">Objeto a comparar</param>
         /// <returns>True si son el mismo ejercicio</returns>
-        public override bool Equals(object? obj)
+        public override bool Equals(object obj)
         {
             if (obj is ExerciseInfo other)
             {

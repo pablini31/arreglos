@@ -4,7 +4,10 @@ C:\Users\pab20\ArrayExercises.WinForms\bin\Debug\net8.0-windows\ArrayExercises.W
 C:\Users\pab20\ArrayExercises.WinForms\bin\Debug\net8.0-windows\ArrayExercises.WinForms.dll
 C:\Users\pab20\ArrayExercises.WinForms\bin\Debug\net8.0-windows\ArrayExercises.WinForms.pdb
 C:\Users\pab20\ArrayExercises.WinForms\obj\Debug\net8.0-windows\ArrayExercises.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pab20\ArrayExercises.WinForms\obj\Debug\net8.0-windows\ArrayExercises.WinForms.AssemblyInfoInputs.cache
+C:\Users\pab20\ArrayExercises.WinForms\obj\Debug\net8.0-windows\ArrayExercises.WinForms.AssemblyInfo.cs
 C:\Users\pab20\ArrayExercises.WinForms\obj\Debug\net8.0-windows\ArrayExercises.WinForms.csproj.CoreCompileInputs.cache
+C:\Users\pab20\ArrayExercises.WinForms\obj\Debug\net8.0-windows\ArrayExercises.WinForms.sourcelink.json
 C:\Users\pab20\ArrayExercises.WinForms\obj\Debug\net8.0-windows\ArrayExercises.WinForms.dll
 C:\Users\pab20\ArrayExercises.WinForms\obj\Debug\net8.0-windows\refint\ArrayExercises.WinForms.dll
 C:\Users\pab20\ArrayExercises.WinForms\obj\Debug\net8.0-windows\ArrayExercises.WinForms.pdb

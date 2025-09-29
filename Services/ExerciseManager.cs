@@ -33,17 +33,17 @@ namespace ArrayExercises.WinForms.Services
                 "Contar cuántos ceros aparecen en cada renglón de una matriz dada",
                 () => new Exercise1Form());
 
-            // Ejercicio 2: Cuadrado mágico (placeholder por ahora)
+            // Ejercicio 2: Cuadrado mágico
             RegisterExercise(2, 
                 "Verificador de Cuadrado Mágico", 
                 "Verificar si una matriz es un cuadrado mágico y calcular la constante",
-                null); // Cambiado a null temporalmente
+                () => new Exercise2Form());
 
-            // Ejercicio 3: Operaciones con matrices (placeholder por ahora)
+            // Ejercicio 3: Operaciones con matrices
             RegisterExercise(3, 
                 "Operaciones con Matrices 2x2", 
                 "Realizar suma, resta, producto y división entre dos matrices 2x2",
-                null); // Cambiado a null temporalmente
+                () => new Exercise3Form());
 
             // Placeholder para ejercicios futuros
             RegisterExercise(4, 
