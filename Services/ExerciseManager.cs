@@ -49,22 +49,23 @@ namespace ArrayExercises.WinForms.Services
             RegisterExercise(4, 
                 "Matriz Identidad", 
                 "Crear una matriz identidad (diagonal principal con 1s, resto con 0s)",
-                null);
+                () => new Exercise4Form()); // <-- Actualizado
 
             RegisterExercise(5, 
                 "Estadísticas de Matriz Aleatoria", 
                 "Calcular suma y promedio por filas y columnas de matriz 5x10",
-                null);
+                () => new Exercise5Form()); // <-- Actualizado
 
             RegisterExercise(6, 
                 "Análisis de Ventas", 
                 "Analizar tabla de ventas mensuales por días de la semana",
-                null);
+                () => new Exercise6Form()); // <-- Actualizado
 
+            // Ejercicio 7: Análisis de Calificaciones
             RegisterExercise(7, 
                 "Análisis de Calificaciones", 
                 "Procesar tabla de calificaciones y generar estadísticas",
-                null);
+                () => new Exercise7Form()); // <-- Actualizado
         }
 
         /// <summary>
