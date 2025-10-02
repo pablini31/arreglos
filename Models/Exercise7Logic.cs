@@ -7,7 +7,7 @@ namespace ArrayExercises.WinForms.Models
 {
     public class Exercise7Logic
     {
-        [cite_start]// Matriz con los datos de calificaciones del PDF [cite: 229-265]
+        // Matriz con los datos de calificaciones del PDF
         public double[,] GetGradesData()
         {
             return new double[,]

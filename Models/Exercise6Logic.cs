@@ -6,7 +6,7 @@ namespace ArrayExercises.WinForms.Models
 {
     public class Exercise6Logic
     {
-        [cite_start]// Matriz con los datos de ventas del PDF [cite: 168-228]
+        // Matriz con los datos de ventas del PDF
         public int[,] GetSalesData()
         {
             return new int[,]

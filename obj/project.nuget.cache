@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "tHHnURvLwHc=",
+  "dgSpecHash": "f2F+ypUjHnM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\pab20\\ArrayExercises.WinForms\\ArrayExercises.WinForms.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/aarontun/Codes/Estruc_Datos/arreglos/ArrayExercises.WinForms.csproj",
+  "expectedPackageFiles": [
+    "/Users/aarontun/.nuget/packages/microsoft.netcore.app.ref/8.0.17/microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
+    "/Users/aarontun/.nuget/packages/microsoft.windowsdesktop.app.ref/8.0.17/microsoft.windowsdesktop.app.ref.8.0.17.nupkg.sha512",
+    "/Users/aarontun/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.17/microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512",
+    "/Users/aarontun/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.17/microsoft.netcore.app.host.osx-arm64.8.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
